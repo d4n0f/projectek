@@ -1,0 +1,2 @@
+Ez a program egy fájlból beolvas egy szöveget (angol nyelven) és XOR titkosítást alkalmazva titkosítja.
+Ugyanígy megcsinálja a visszafejtést is, és a szöveg különböző állapotait, különböző fájlokba kiírja.
