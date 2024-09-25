@@ -1,0 +1,2 @@
+This text needs to be encrypted.
+This is a new line I hope it works.
