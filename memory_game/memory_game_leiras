@@ -1,0 +1,2 @@
+Ezzel a programmal egy memória játékot tudunk játszani a konzolon.
+A programban 5db változó és 5db azokra a változókra mutató pointer van, és ezen párokat kell megkeresni.
