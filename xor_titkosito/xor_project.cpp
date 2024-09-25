@@ -150,10 +150,3 @@ int main()
     
     return 0;
 }
-
-/*
-    további feladatok:
-    
-        - tisztábbá/szebbé tenni a kódot
-        - megoldani a nyelvválasztást
-*/
